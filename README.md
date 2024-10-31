@@ -1,4 +1,4 @@
-The objective of this research project is:
+The objectives of this research project are:
 1.	Learn the basic concepts of phase I clinical trial designs
 2.	Perform a literature review of the published phase I clinical trials 
 3.	Summarize the common phase I clinical trial parameters
