@@ -1,4 +1,4 @@
-The objectives of this research project are:
+The objectives of this summer research intern are:
 1.	Learn the basic concepts of phase I clinical trial designs
 2.	Perform a literature review of the published phase I clinical trials 
 3.	Summarize the common phase I clinical trial parameters
